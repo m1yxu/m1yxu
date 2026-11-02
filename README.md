@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:193D2B&height=180&section=header&text=MINGYU%20KWON&fontSize=48&fontColor=7CFF6B&animation=fadeIn&fontAlignY=45" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:193D2B&height=180&section=header&text=MINGYU%20KWON&fontSize=48&fontColor=7CFF6B&animation=fadeIn&fontAlignY=45" width="100%">
 <h3>Service Planner | Developer</h3>
 
 </div>
