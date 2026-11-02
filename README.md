@@ -7,7 +7,7 @@
 </div>
 
 
-### ⚡ TECH STACK
+---
 
 
 #### Languages
