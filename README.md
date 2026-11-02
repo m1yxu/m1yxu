@@ -1,17 +1,14 @@
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:193D2B,100:0D1117&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:193D2B,100:0D1117&height=80&section=header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:101820,100:193D2B&height=180&section=header&text=MINGYU%20KWON&fontSize=48&fontColor=7CFF6B&animation=fadeIn&fontAlignY=45&desc=Service%20Planner%20%7C%20Developer&descSize=16&descAlignY=68&descColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:101820,100:193D2B&height=140&section=header&text=MINGYU%20KWON&fontSize=44&fontColor=7CFF6B&animation=fadeIn&fontAlignY=40&desc=Service%20Planner%20%7C%20Developer&descSize=15&descAlignY=65&descColor=FFFFFF" width="100%" />
 
 </div>
 
 
----
+## ⚡ TECH STACK
 
-## 🖥️ TECH STACK
 
 ### Languages
 
